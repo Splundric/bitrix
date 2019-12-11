@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="Bitrix" createEmptyFolders="true">
+  <component name="PublishConfigData" autoUpload="Always" createEmptyFolders="true">
     <serverData>
-      <paths name="Bitrix">
+      <paths name="Skillbox">
         <serverdata>
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
-            <mapping local="/" web="/" />
+            <mapping local="" />
           </mappings>
           <excludedPaths>
-            <excludedPath path="/bitrix/public_html/bitrix" />
-            <excludedPath path="/bitrix/public_html/upload" />
             <excludedPath path="/bitrix" />
             <excludedPath path="/upload" />
           </excludedPaths>

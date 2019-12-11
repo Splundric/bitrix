@@ -1,7 +1,7 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Ìîé êàáèíåò",
+		"ÐœÐ¾Ð¹ ÐºÐ°Ð±Ð¸Ð½ÐµÑ‚",
 		"personal/",
 		Array(),
 		Array(),
@@ -10,7 +10,7 @@ $aMenuLinks = Array(
 
 
 	Array(
-		"Òåêóùèå çàêàçû",
+		"Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ñ‹",
 		"personal/orders/",
 		Array(),
 		Array(),
@@ -18,7 +18,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"Ëè÷íûé ñ÷åò",
+		"Ð›Ð¸Ñ‡Ð½Ñ‹Ð¹ ÑÑ‡ÐµÑ‚",
 		"personal/account/",
 		Array(), 
 		Array(),
@@ -26,42 +26,42 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"Ëè÷íûå äàííûå",
+		"Ð›Ð¸Ñ‡Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ",
 		"personal/private/",
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Èñòîðèÿ çàêàçîâ",
+		"Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²",
 		"personal/orders/?filter_history=Y",
 		Array(),
 		Array(),
 		""
 	),
 	Array(
-		"Ïðîôèëè çàêàçîâ",
+		"ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ð¸ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²",
 		"personal/profiles/",
 		Array(),
 		Array(),
 		""
 	),
 	Array(
-		"Êîðçèíà",
+		"ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°",
 		"personal/cart/",
 		Array(),
 		Array(),
 		""
 	),
 	Array(
-		"Ïîäïèñêè",
+		"ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ¸",
 		"personal/subscribe/",
 		Array(),
 		Array(),
 		""
 	),
 	Array(
-		"Êîíòàêòû",
+		"ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹",
 		"about/contacts/",
 		Array(),
 		Array(),

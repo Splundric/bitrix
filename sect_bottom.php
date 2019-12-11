@@ -43,7 +43,7 @@
 			</div>
 		<?endif?>
 
-		<h2>Новости</h2>
+		<h2>РќРѕРІРѕСЃС‚Рё</h2>
 		<?$APPLICATION->IncludeComponent(
 			"bitrix:news.list",
 			"bootstrap_v4",
@@ -107,7 +107,7 @@
 				"SEARCH_PAGE" => "/search/",
 				"USE_RATING" => "N",
 				"USE_SHARE" => "N",
-				"PAGER_TITLE" => "Новости",
+				"PAGER_TITLE" => "РќРѕРІРѕСЃС‚Рё",
 				"PAGER_BASE_LINK_ENABLE" => "N",
 				"SHOW_404" => "N",
 				"MESSAGE_404" => "",

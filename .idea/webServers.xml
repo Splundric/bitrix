@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7703a99a-f6f0-495c-8943-6741250e522f" name="Bitrix" url="http://92.53.96.39">
-        <fileTransfer host="92.53.96.39" port="21" rootFolder="/bitrix/public_html">
+      <webServer id="061ede91-54cc-46f1-89c4-537e3dacce02" name="Skillbox" url="http://92.53.96.39">
+        <fileTransfer host="92.53.96.39" port="21" rootFolder="/skillbox/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

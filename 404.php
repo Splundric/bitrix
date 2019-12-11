@@ -7,21 +7,21 @@ define("HIDE_SIDEBAR", true);
 
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 
-$APPLICATION->SetTitle("Страница не найдена");?>
+$APPLICATION->SetTitle("РЎС‚СЂР°РЅРёС†Р° РЅРµ РЅР°Р№РґРµРЅР°");?>
 
 	<div class="bx-404-container">
 		<div class="bx-404-block"><img src="<?=SITE_DIR?>images/404.png" alt=""></div>
-		<div class="bx-404-text-block">Неправильно набран адрес, <br>или такой страницы на сайте больше не существует.</div>
-		<div class="">Вернитесь на <a href="<?=SITE_DIR?>">главную</a> или воспользуйтесь картой сайта.</div>
+		<div class="bx-404-text-block">РќРµРїСЂР°РІРёР»СЊРЅРѕ РЅР°Р±СЂР°РЅ Р°РґСЂРµСЃ, <br>РёР»Рё С‚Р°РєРѕР№ СЃС‚СЂР°РЅРёС†С‹ РЅР° СЃР°Р№С‚Рµ Р±РѕР»СЊС€Рµ РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚.</div>
+		<div class="">Р’РµСЂРЅРёС‚РµСЃСЊ РЅР° <a href="<?=SITE_DIR?>">РіР»Р°РІРЅСѓСЋ</a> РёР»Рё РІРѕСЃРїРѕР»СЊР·СѓР№С‚РµСЃСЊ РєР°СЂС‚РѕР№ СЃР°Р№С‚Р°.</div>
 	</div>
 	<div class="map-columns row">
 		<div class="col-sm-10 col-sm-offset-1">
-			<div class="bx-maps-title">Карта сайта:</div>
+			<div class="bx-maps-title">РљР°СЂС‚Р° СЃР°Р№С‚Р°:</div>
 		</div>
 	</div>
 
 	<div class="col-sm-offset-2 col-sm-4">
-		<div class="bx-map-title"><i class="fa fa-leanpub"></i> Каталог</div>
+		<div class="bx-map-title"><i class="fa fa-leanpub"></i> РљР°С‚Р°Р»РѕРі</div>
 		<?$APPLICATION->IncludeComponent(
 			"bitrix:catalog.section.list",
 			"tree",
@@ -53,7 +53,7 @@ $APPLICATION->SetTitle("Страница не найдена");?>
 	</div>
 
 	<div class="col-sm-offset-1 col-sm-4">
-		<div class="bx-map-title"><i class="fa fa-info-circle"></i> О магазине</div>
+		<div class="bx-map-title"><i class="fa fa-info-circle"></i> Рћ РјР°РіР°Р·РёРЅРµ</div>
 		<?
 		$APPLICATION->IncludeComponent(
 			"bitrix:main.map",

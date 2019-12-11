@@ -7,14 +7,14 @@
 			"CHECK_DATES" => "N",
 			"SHOW_OTHERS" => "N",
 			"PAGE" => SITE_DIR."catalog/",
-			"CATEGORY_0_TITLE" => "Товары" ,
+			"CATEGORY_0_TITLE" => "РўРѕРІР°СЂС‹" ,
 			"CATEGORY_0" => array(
 				0 => "iblock_catalog",
 			),
 			"CATEGORY_0_iblock_catalog" => array(
 				0 => "all",
 			),
-			"CATEGORY_OTHERS_TITLE" => "Прочее",
+			"CATEGORY_OTHERS_TITLE" => "РџСЂРѕС‡РµРµ",
 			"SHOW_INPUT" => "Y",
 			"INPUT_ID" => "title-search-input",
 			"CONTAINER_ID" => "search",
@@ -32,7 +32,7 @@
 <?endif?>
 
 <div class="mb-5">
-	<h3>Мы в соцсетях</h3>
+	<h3>РњС‹ РІ СЃРѕС†СЃРµС‚СЏС…</h3>
 	<?$APPLICATION->IncludeComponent(
 		"bitrix:main.include",
 		"",

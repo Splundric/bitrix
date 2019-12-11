@@ -1,7 +1,7 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Íîâîñòè",
+		"ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸",
 		"news/",
 		Array(),
 		Array(),
@@ -9,7 +9,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"Êàê êóïèòü",
+		"ÐšÐ°Ðº ÐºÑƒÐ¿Ð¸Ñ‚ÑŒ",
 		"about/howto/",
 		Array(), 
 		Array(), 
@@ -17,28 +17,28 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"Äîñòàâêà",
+		"Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°",
 		"about/delivery/",
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Î ìàãàçèíå",
+		"Ðž Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ðµ",
 		"about/",
 		Array(),
 		Array(),
 		""
 	),
 	Array(
-		"Ãàðàíòèÿ",
+		"Ð“Ð°Ñ€Ð°Ð½Ñ‚Ð¸Ñ",
 		"about/guaranty/",
 		Array(),
 		Array(),
 		""
 	),
 	Array(
-		"Êîíòàêòû",
+		"ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹",
 		"about/contacts/",
 		Array(),
 		Array(),

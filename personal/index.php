@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ïåðñîíàëüíûé ðàçäåë");
+$APPLICATION->SetTitle("ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:sale.personal.section",
 	"bootstrap_v4",
